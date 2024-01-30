@@ -1,0 +1,72 @@
+.orders h1 {
+  color: #33332d;
+  font-size: 32px;
+  font-weight: 500;
+  letter-spacing: 3.2px;
+  text-align: center;
+}
+.orders {
+  padding-top: 28px;
+}
+.boxes {
+  width: 886px;
+  height: 150px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #d9d9d9;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 24pc;
+  margin-top: 2pc;
+}
+.text_div h2 {
+  color: #000;
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: 1.08px;
+}
+.text_div p {
+  color: #000;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0.72px;
+}
+.text_div {
+  margin-right: 50px;
+}
+.delete_div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.btn_plus {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.delete-btn {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  border-radius: 10px;
+  background: #bd1d1d;
+  padding: 10px 18px;
+  margin-bottom: 10px;
+}
+.btn_plus button {
+  color: #000;
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: 1.08px;
+  border-radius: 10px;
+  background: #ddaa27;
+  padding: 5px 10px;
+  margin: 0 10px;
+}
+.btn_plus p {
+  color: #000;
+  font-size: 24px;
+  font-weight: 500;
+}
